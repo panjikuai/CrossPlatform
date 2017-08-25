@@ -1,0 +1,2 @@
+export PATH=/home/esp/xtensa-esp32-elf/bin:$PATH
+export IDF_PATH=/vagrant/workspace/esp-idf
